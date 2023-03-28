@@ -108,3 +108,4 @@ D:\Dpath\ProgramCharles\20230324ASPpractice\JokesWebApp\obj\Debug\JokesWebApp.pd
 D:\Dpath\ProgramCharles\20230324ASPpractice\JokesWebApp\obj\Debug\JokesWebApp.Migrations.InitialCreate.resources
 D:\Dpath\ProgramCharles\20230324ASPpractice\JokesWebApp\obj\Debug\JokesWebApp.csproj.GenerateResource.cache
 D:\Dpath\ProgramCharles\20230324ASPpractice\JokesWebApp\obj\Debug\JokesWebApp.Migrations.initialsetup.resources
+D:\Dpath\ProgramCharles\20230324ASPpractice\JokesWebApp\obj\Debug\JokesWebApp.csproj.AssemblyReference.cache
